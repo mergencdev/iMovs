@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="imovs_theme">#171721</color>
+    <color name="imovs_buttons">#DA1A37</color>
+    <color name="imovs_text">#FFFFFF</color>
+    <color name="imovs_alt_text">#929092</color>
+    <color name="imovs_rating">#DAB01C</color>
 </resources>
