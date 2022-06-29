@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/layout/activity_cast_details.xml" value="0.25" />
+        <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/layout/activity_homepage.xml" value="0.32592592592592595" />
         <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/layout/activity_movie_details.xml" value="0.36666666666666664" />
         <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/layout/fragment_movie_list.xml" value="0.35260416666666666" />
+        <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/layout/item_cast.xml" value="0.32592592592592595" />
         <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/layout/item_movie.xml" value="0.5" />
         <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/layout/item_network_state.xml" value="0.32592592592592595" />
+        <entry key="..\:/personal/mergenc/work/kotlin-android/welbeestask/iMovs/app/src/main/res/menu/item_menu.xml" value="0.32592592592592595" />
       </map>
     </option>
   </component>
